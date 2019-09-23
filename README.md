@@ -3,12 +3,12 @@ The system automatically detects the hand gestures of a partially paralyzed pers
 
 ## Steps
 
-	* Patient places his hand on the provided backround region and indicates a number from 1-5, using his hand.
-	  Each number is assigned a specific requirement of the patient (eg: 1 - Eat something, 2 - Drink something)
+* Patient places his hand on the provided backround region and indicates a number from 1-5, using his hand.
+  Each number is assigned a specific requirement of the patient (eg: 1 - Eat something, 2 - Drink something)
 	
-	* Algorithm detects the displayed number, and displays a feedback message on the patients screen to indicate that his number was correctly detected.
+* Algorithm detects the displayed number, and displays a feedback message on the patients screen to indicate that his number was correctly detected.
 	
-	* Further developments are expected to be done by sending the detected message of the patient to another person who is helping him.
+* Further developments are expected to be done by sending the detected message of the patient to another person who is helping him.
 	
 ## About Attached Files
 
